@@ -33,4 +33,5 @@ To order pizza:
 In the "Place Pizza Order" section:
 Select the pizza size from the available options.
 Choose the toppings you want to add to the pizza.
+
 Click the "Order" button to add the pizza to the cart.
