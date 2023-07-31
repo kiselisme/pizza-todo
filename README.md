@@ -1,46 +1,36 @@
-# Getting Started with Create React App
+# Pizza Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pizza Todo App - your best companion for organizing pizza orders and to-do lists. This web 
+application is designed for those who want to easily and conveniently create to-do lists while 
+simultaneously placing an order for pizza delivery.
 
-## Available Scripts
+## Key Features
+Create and manage to-do lists.
+Add, edit, and delete tasks from the to-do lists.
+Convenient and quick pizza ordering with various options.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## To create a to-do list:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Enter the list name in the input field "Enter list name."
+Click the "Create" button.
+To add a task to the to-do list:
 
-### `npm test`
+Enter the task text in the input field "Enter task."
+Click the "Add Task" button.
+To edit a task:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Click on the task text you want to modify.
+Make the necessary changes.
+Press the "Enter" key to save the changes.
+To delete a task:
 
-### `npm run build`
+Hover over the task.
+Click on the "trash bin" icon next to the task.
+To order pizza:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+In the "Place Pizza Order" section:
+Select the pizza size from the available options.
+Choose the toppings you want to add to the pizza.
+Click the "Order" button to add the pizza to the cart.
